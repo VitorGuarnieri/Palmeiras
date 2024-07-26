@@ -1,0 +1,25 @@
+.STrigo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center ;
+
+
+
+}
+.BodyT{
+background-color: rgb(233, 229, 15);
+padding: 0%;
+
+}
+.imgT{
+    position:relative;
+   margin-left: 30%;
+    width: 40%;
+    margin-top: 5%;
+
+}
+.texto3{
+    display: flex;
+    justify-content: center;
+
+
+}

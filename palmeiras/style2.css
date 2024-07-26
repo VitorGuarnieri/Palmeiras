@@ -1,0 +1,24 @@
+.Smilho{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center ;
+
+
+
+}
+.BodyM{
+background-color: rgb(15, 197, 39);
+
+}
+.imgM{
+    position:relative;
+   margin-left: 30%;
+    width: 40%;
+    margin-top: 5%;
+
+}
+.texto2{
+    display: flex;
+    justify-content: center;
+
+
+}

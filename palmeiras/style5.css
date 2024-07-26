@@ -1,0 +1,24 @@
+.BODY5{
+    background-image: url(agricultura-no-campo-copia.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.TRS{
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+
+}
+.RS{
+    width: 30%;
+ position: relative;
+ left: 35%;
+ 
+}
+.AT{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
