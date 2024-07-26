@@ -1,0 +1,24 @@
+.Ssoja{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center ;
+
+
+
+}
+.BodyS{
+background-color: yellowgreen;
+
+}
+.imgS{
+    position:relative;
+   margin-left: 30%;
+    width: 40%;
+    margin-top: 5%;
+
+}
+.texto1{
+    display: flex;
+    justify-content: center;
+
+
+}

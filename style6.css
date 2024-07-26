@@ -1,0 +1,37 @@
+.Logo{
+   position: absolute;
+ margin-top: 0%;
+    width: 10%;
+    left: 2%;
+}
+.BODYTC{
+    background-color: yellow;
+}
+.TX{
+    width: 35%;
+    position:absolute;
+    margin-top: 20%;
+    left: 60%;
+
+}
+.TC490{
+    width: 40%;
+    position:absolute;
+    margin-top: 20%;
+
+}
+.TCTX{
+    position: absolute;
+    margin-top: 11%;
+    background-color: white;
+  left: 30%;
+  color: blue;
+}
+.TXTC{
+    position: absolute;
+    margin-top:14% ;
+    background-color: white;
+    color: blue;
+    font-size: 130%;
+    left: 5%;
+}
